@@ -1,0 +1,6 @@
+{
+  "name": "Скретч-приглашение на свидание",
+  "description": "Романтическая интерактивная скретч-открытка с эффектом стирания фольги и приглашением на свидание.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
